@@ -1,0 +1,71 @@
+a {text-decoration: none;
+    display: block; padding-block: 1em}
+input{height: 15px;
+    padding: 2em}
+td{background-color: rgb(48, 48, 48);
+        color: blanchedalmond;
+        text-align: center;}
+th{background-color: antiquewhite;
+    padding: 1em}
+tbody{text-align: center;
+            padding: 1em;}
+.class_01{
+        background-color: rgb(255, 112, 56);
+        text-decoration-color: rgb(255, 112, 56);
+        color: green;
+        cursor: pointer;
+    }
+.class_02{
+        background-color: mediumvioletred;
+        text-decoration-color: mediumvioletred;
+        color: black;
+        cursor: pointer;
+    }
+.class_03{
+        background-color: mediumaquamarine;
+        text-decoration-color: mediumaquamarine;
+        color: black;
+        cursor: pointer;
+    }
+.class_04{
+        background-color: gold;
+        text-decoration-color: gold;
+        color: black;
+        cursor: pointer;}
+        
+        .class_01 :hover{color: aliceblue;
+            cursor: pointer;
+            table-layout: auto;
+            text-decoration: wavy, white;
+            text-decoration-color: brown;
+            background-color: blue;
+            color-adjust: none }
+        .class_02 :hover{color: aliceblue;
+            cursor: pointer;
+            table-layout: auto;
+            text-decoration: wavy, white;
+            text-decoration-color: brown;
+            background-color: blue;
+            color-adjust: none }
+            .class_03 :hover{color: aliceblue;
+                cursor: pointer;
+                table-layout: auto;
+                text-decoration: wavy, white;
+                text-decoration-color: brown;
+                background-color: blue;
+                color-adjust: none }
+    .class_04 :hover{color: aliceblue;
+        cursor: pointer;
+        table-layout: auto;
+        text-decoration: wavy, white;
+        text-decoration-color: brown;
+        background-color: blue;
+        color-adjust: none }
+    
+:any-link{color: currentColor;
+cursor: pointer;}
+body{background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center}
+
